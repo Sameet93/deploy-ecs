@@ -1,4 +1,3 @@
-```markdown
 # Terraform Deployment for ECS Cluster
 
 This repository contains Terraform configurations for deploying an ECS cluster along with associated resources like ECR, RDS, and IAM roles.
@@ -97,4 +96,3 @@ Feel free to open issues or submit pull requests if you find any bugs or have su
 ## License
 
 This project is licensed under the MIT License.
-```
